@@ -3,7 +3,7 @@
 #include <vector>
 #include <stdio.h>
 using namespace std;
-
+//123456!
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
